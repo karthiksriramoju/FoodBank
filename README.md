@@ -36,8 +36,7 @@ Ensure you have the following installed:
 npm install
 ```
 
-3️⃣ **Set up environment variables**
-Create a `.env` file in the root directory and add:
+3️⃣ **Set up variables**
 ```
 MONGO_URI=your-mongodb-connection-string
 PORT=3000
